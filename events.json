@@ -1,0 +1,34 @@
+{
+  "REGISTER_QUEUE": "register queue",
+  "UPDATE_QUEUE": "update queue",
+  "DELETE_QUEUE": "delete queue",
+  "ON_CALL_WAIT": "call wait",
+  "ON_HOLD_WAIT": "hold wait",
+  "ON_END_WAIT": "end wait",
+  "ON_RECALL": "recall",
+  "ON_HOLD": "hold",
+  "ON_END": "end",
+  "ON_PROBLEM_PRESCRIPTION": "problem prescription",
+
+  "DEVICE_CONNECTED": "DEVICE_CONNECTED",
+  "DEVICE_DISCONNECTED": "DEVICE_DISCONNECTED",
+
+  "CARD_INSERTED": "CARD_INSERTED",
+  "CARD_REMOVED": "CARD_REMOVED",
+
+  "READING_START": "READING_START",
+  "READING_PROGRESS": "READING_PROGRESS",
+  "READING_COMPLETE": "READING_COMPLETE",
+  "READING_FAIL": "READING_FAIL",
+
+  "CLOCK": "clock",
+
+  "AUDIO_PLAYING": "audio playing",
+  "AUDIO_ENDED": "audio ended",
+
+  "SETTINGS": "settings",
+  "PRINTING_QUEUE": "printing queue",
+  "PRINTING_ERROR": "printing error",
+  "SEND_DATA": "send data",
+  "RECEIVE_DATA": "receive data"
+}
